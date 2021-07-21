@@ -2,12 +2,6 @@
     background-color:grey ;
     
 }
-section{
-    padding: 10px;
-}
-.videos{
-    margin: 120px;
-}
-.videos2{
-    margin: 60px;
+body{
+    text-align: center;
 }
