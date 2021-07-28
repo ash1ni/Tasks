@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    background-color: yellowgreen;
+    
+    
+}
+img{
+    border-radius: 20px;
+    box-shadow:  5px 10px;
+    
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px;
+}
+ul{
+    list-style: none;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: 300;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .center{
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 5px 5px;
+    }
+  }
